@@ -1,0 +1,13 @@
+#屏幕显示的配置文件
+
+[config]
+Color=1
+Light=2
+
+[COM]
+com=1
+
+[BOARD]
+Board1Id=4
+Board2Id=4
+Board3Id=4
